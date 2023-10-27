@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  padding: .5rem;
+  background-color: #ccc;
+  align-items: center;
+  justify-content: space-between;
+}
+
+a{
+  margin-left: 1rem;
+  text-decoration: none;
+}
+
+a.active {
+  color: green;
+  text-decoration: underline;
+}
